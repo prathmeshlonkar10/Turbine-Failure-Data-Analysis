@@ -1,17 +1,21 @@
-![image](https://github.com/prathmeshlonkar10/Turbine-Failure-Data-Analysis/assets/66990159/b8ca3b02-db80-4581-a0df-59b48ea84206)
+![image](https://github.com/prathmeshlonkar10/Turbine-Failure-Data-Analysis/assets/66990159/df6e282f-1a0a-4e77-8a79-16e9031a3f96)
+
 
 ## Highlight
 We Analyze the turbine failure data to study its failure reasons and patterns and further predict the potential breakdowns. 
+
 
 ## Features
 - Data Visualization
 - Data Analysis
 - Time Series Analysis
 
+
 ## Technologies used
 ![](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white)
 ![](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+
 
 ## Packages used
 ![](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
